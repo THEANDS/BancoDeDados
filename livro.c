@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#define MAX_Livro
 
 typedef struct livro{
         char titulo[30];
@@ -80,6 +80,8 @@ int main(){
                 printf("\nDigite o nome: ");
                 setbuf(stdin,NULL);
                 fgets(nome,31,stdin);
+                /*printf("\e[H\e[2J");*/
+                system("clear");
                 printf("\nDigite o telefone: ");
                 scanf("%d", &telefone);
                 Cadastra(nome, telefone);
