@@ -1,0 +1,18 @@
+Caixa : 1
+Titulo: Senhor dos aneis
+Autor: J r r talkien
+Editora: hasbro
+Edicao: 2º
+ISBN: 12344-9
+Ano: 2002
+Quantidade: 2
+
+Caixa : 5
+Titulo: hgd
+Autor: sasa
+Editora: qwqwq
+Edicao: 2º
+ISBN: 4242332
+Ano: 3333
+Quantidade: 4
+

@@ -1,0 +1,9 @@
+Caixa: 2
+Titulo: maga
+Autor: mad
+Editora: panini
+Edicao: 344º
+ISBN: 123234-9
+Ano: 1223
+Quantidade: 4
+
